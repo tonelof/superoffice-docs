@@ -1,0 +1,19 @@
+---
+uid: help-no-dashboard-delete
+title: Delete a dashboard
+description: Delete a dashboard
+author: Bergfrid Dias
+so.date: 03.15.2023
+keywords: dashboard
+so.topic: howto
+language: no
+---
+
+# Delete a dashboard
+
+1. Open the **Dashboard** screen.
+2. Select the dashboard you want to edit, click the **Task** button, and select **Delete this dashboard**.
+3. Click **OK** to confirm. The dashboard is deleted.
+
+    If the dashboard is pinned to other users or user groups, they will no longer have access to it.
+
