@@ -60,7 +60,7 @@ När du klickar på ikonen ![ikon][img2] visas panelen för aviseringsinställni
 
 Det här är aviseringsalternativen:
 
-### Inställningar för mötesaviseringar
+### Inställningar för händelsesaviseringar
 
 * Visa aviseringar för mötesinbjudningar
 * Visa aviseringar för ändrade möten
@@ -83,7 +83,7 @@ Det här är aviseringsalternativen:
 * Systemmeddelanden för e-post
 * Systemmeddelanden för chatt
 
-## Hvordan endre nettleserinnstillingene for varsler
+## <a id="enable-browser" />Hvordan endre nettleserinnstillingene for varsler
 
 **Chrome:** Klicka på hänglåssymbolen framför URL:en och aktivera **Aviseringar**-omkopplaren.
 

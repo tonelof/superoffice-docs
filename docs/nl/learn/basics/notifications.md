@@ -60,7 +60,7 @@ Wanneer u op het ![pictogram][img2] pictogram klikt, wordt het deelvenster met m
 
 Dit zijn de meldingsopties:
 
-### Voorkeuren voor afspraakmeldingen
+### Voorkeuren voor vervolgactiviteitmeldingen
 
 * Meldingen weergeven voor uitnodigingen voor vergaderingen
 * Meldingen weergeven voor gewijzigde vergaderingen
@@ -83,7 +83,7 @@ Dit zijn de meldingsopties:
 * Systeemmeldingen voor email
 * Systeemmeldingen voor chatten
 
-## Hoe de browserinstellingen voor meldingen wijzigen
+## <a id="enable-browser" />Hoe de browserinstellingen voor meldingen wijzigen
 
 **Chrome:** Klik op het hangslotsymbool voor de URL en schakel de **Meldingen**-schakelaar in.
 

@@ -60,7 +60,7 @@ Når du klikker på ikonet ![icon][img2] vises panelet for varslingsinnstillinge
 
 Dette er varslingsalternativene:
 
-### Innstillinger for avtalevarsler
+### Innstillinger for oppfølgingsvarsler
 
 * Bli varslet om møteinvitasjoner
 * Bli varslet om endrede møter
@@ -83,7 +83,7 @@ Dette er varslingsalternativene:
 * Systemvarslinger for e-post
 * Systemvarslinger for chat
 
-## Hvordan endre nettleserinnstillingene for varsler
+## <a id="enable-browser" />Hvordan endre nettleserinnstillingene for varsler
 
 **Chrome:** Klikk på hengelåsikonet foran URL-en og slå på **Varsler**-bryteren.
 

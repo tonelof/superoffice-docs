@@ -60,7 +60,7 @@ Når du klikker på ikonet ![ikon][img2] vises panelet med meddelelsesindstillin
 
 Dette er meddelelsesmulighederne:
 
-### Præferencer om beskeder om aftaler
+### Præferencer om beskeder om opfølginger
 
 * Vis beskeder for mødeindkaldelser
 * Vis beskeder for ændrede møder
@@ -83,7 +83,7 @@ Dette er meddelelsesmulighederne:
 * Systembeskeder for e-mails
 * Systembeskeder for chats
 
-## Ændres browserindstillingerne for notifikationer
+## <a id="enable-browser" />Ændres browserindstillingerne for notifikationer
 
 **Chrome:** Klik på hængelåsen foran URL'en og aktiver **Notifikationer**-vippen.
 
